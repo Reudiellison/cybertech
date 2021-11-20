@@ -1,7 +1,13 @@
-# Software registro de ponto
+# Software Cyber RH #
 
-Software de gerenciamento RH para atender as necessidades de registros de ponto remoto.
+## Introdução ##
 
-## 🚀 Implantação
+Esse software e um projeto que sera desenvolvido para conclusão do curso Técnico em informatica.
 
-Concepção, Análise de Cenário, Elaboração, Implantação, Avaliação e Reavaliação.
+
+
+
+
+
+
+
