@@ -4,6 +4,7 @@
 
 ## Mercardo ##
 
+
 ## Principais funcionalidades ##
 
 ## Principais Concocorentes ##
