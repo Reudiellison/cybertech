@@ -4,6 +4,14 @@
 
 ## Mercardo ##
 
+
 ## Principais funcionalidades ##
 
-## Principais Concocorentes ##
+## Principais concorrentes ##
+
+Kairos
+Alterdata Flit
+Ahgora Ponto web
+Oi Tchau
+Apponte Me
+Bizneo Hr
