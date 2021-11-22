@@ -14,15 +14,31 @@
 	Contudo, isso é algo que depende de uma mudança de visão nas empresas e principalmente do mercado de Recursos Humanos em adotar novas tecnologias. Um dos caminhos que se apresenta é o uso de softwares de RH para entender melhor as necessidades dos funcionários e da empresa e, a partir daí, desenhar estratégias para engajar os profissionais.
 
 
-
 ## Principais funcionalidades ##
 
- Maior confiabilidade de informações;
+Maior confiabilidade de informações;
  Mais confidencialidade e segurança dos dados;
  Facilidade na análise de dados e emissão de relatórios;
  Maior praticidade para o colaborador;
  Maior confiabilidade de informações;
  Melhor custo benefício.
 
+## Principais concorrentes ##
 
-## Principais Concocorentes ##
+Kairos
+Alterdata Flit
+Ahgora Ponto web
+Oi Tchau
+Apponte Me
+Bizneo Hr
+
+
+
+
+
+
+
+
+
+
+
