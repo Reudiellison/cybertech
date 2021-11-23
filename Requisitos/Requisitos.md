@@ -14,6 +14,8 @@ http://www2.unemat.br/rhycardo/download/engenharia_de_requisitos.pdf
 
 	Contudo, isso é algo que depende de uma mudança de visão nas empresas e principalmente do mercado de Recursos Humanos em adotar novas tecnologias. Um dos caminhos que se apresenta é o uso de softwares de RH para entender melhor as necessidades dos funcionários e da empresa e, a partir daí, desenhar estratégias para engajar os profissionais.
 
+URL- https://blog.tangerino.com.br/gestao-de-pessoas/softwares-de-rh/
+
 
 ## Principais funcionalidades ##
 
@@ -23,6 +25,8 @@ Maior confiabilidade de informações;
  Maior praticidade para o colaborador;
  Maior confiabilidade de informações;
  Melhor custo benefício.
+
+URL: https://xerpay.com.br/blog/tratamento-de-ponto-eletronico/
 
 ## Principais concorrentes ##
 
