@@ -23,6 +23,8 @@ Maior confiabilidade de informações;
  Maior confiabilidade de informações;
  Melhor custo benefício.
 
+URL: https://xerpay.com.br/blog/tratamento-de-ponto-eletronico/
+
 ## Principais concorrentes ##
 
 Kairos
