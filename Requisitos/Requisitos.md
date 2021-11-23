@@ -18,12 +18,12 @@ Maior confiabilidade de informações;
  Melhor custo benefício.
 ## Principais concorrentes ##
 
-Kairos
-Alterdata Flit
-Ahgora Ponto web
-Oi Tchau
-Apponte Me
-Bizneo Hr
+Kairos - https://www.b2bstack.com.br/product/kairos?cat=ponto
+Alterdata Flit - https://www.b2bstack.com.br/product/alterdata-flit?cat=ponto
+Ahgora Ponto web - https://www.b2bstack.com.br/product/ahgora-pontoweb?cat=ponto
+Oi Tchau - https://www.b2bstack.com.br/product/oitchau?cat=ponto
+Apponte Me - https://www.b2bstack.com.br/product/apponte-me?cat=ponto
+Bizneo HR - https://www.b2bstack.com.br/product/bizneo-hr?cat=recrutamento-e-selecao
 
 
 
