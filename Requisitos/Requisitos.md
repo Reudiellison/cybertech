@@ -4,6 +4,7 @@
 
 	A visão geral do desenvolvimento do software CyberTech RH compreende um conjunto de atividades que engloba processos do gerenciamento do RH, com ferramentas e procedimentos, com o objetivo de produzir o software que atenda aos requisitos especificados pelos nossos clientes, principalmente a parte de registro de ponto remoto. 
 
+http://www2.unemat.br/rhycardo/download/engenharia_de_requisitos.pdf
 
 ## Mercardo ##
 
