@@ -14,7 +14,7 @@ Apesar disso, ainda que não conhecessem as soluções, aos poucos muitos foram 
 
 Contudo, isso é algo que depende de uma mudança de visão nas empresas e principalmente do mercado de Recursos Humanos em adotar novas tecnologias. Um dos caminhos que se apresenta é o uso de softwares de RH para entender melhor as necessidades dos funcionários e da empresa e, a partir daí, desenhar estratégias para engajar os profissionais.
 
-URL- https://blog.tangerino.com.br/gestao-de-pessoas/softwares-de-rh/
+URL : https://blog.tangerino.com.br/gestao-de-pessoas/softwares-de-rh/
 
 
 ## Principais funcionalidades ##
