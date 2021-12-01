@@ -2,7 +2,7 @@
 
 **Projeto:** CyberTech RH
 
-**Responsáveis:** Amilton, Reudiellison, Ronei e Wanderson.
+F*Responsáveis:** Amilton, Reudiellison, Ronei e Wanderson.
 
 ## 1. Introdução
 
@@ -19,16 +19,22 @@ Descrição do dominio
 Desenvolver um software para o gerenciamento do RH (Recursos Humanos) para facilitar o registro de ponto remoto, visualização da folha de ponto, visualização do contracheque, envio de atestado e reclamação salarial, VT e VA para que
 
 ## 4. Requisitos de Usuário
-
-Tomando por base o contexto do sistema, foram identificados os seguintes requisitos de usuário:
+omando por base o contexto do sistema, foram identificados os seguintes requisitos de usuário:
 
 # Requisitos funcionais
 
-## F1 - Cadastrar colaborador ##
+|Identificação|Descrição|Prioridade|Depende de|
+|:--------------:|:-----------:|:----------:|:------------:|
+|RF01|O sistema permitirá a criação de 3 perfis: Mestre (RH), Intermediário (Supervisor) e Usuário comum (Colaborador)|Alta|---|
+|RF02|O perfil mestre (RH) permitirá adicionar/alterar/excluir/pesquisa cadastrais sob os demais perfis (Intermediário e Usuário comum)|Alta|RF01|
+|RF03|Tela de login deverá ser preenchido com o CPF se for usuário comum ou CNPJ se for Empresa|Alta|RF01,RF02|
+|RF04|A senha de login (CPF,CNPJ) deverá conter letras maiúsculas, minúsculas, caracteres especiais e numérico|Alta|RF03|
+|RF05|Para primeiro acesso ao sistema, a empresa deverá realizar o cadastro|Alta|RF01,RF03|
+|RF06|Para primeiro acesso ao sistema, o colaborador receberá por e-mail os procedimentos para realizar o login com CPF e a senha provisória|Alta|RF01,RF05|
+|RF07|Na tela de login deverá ter a opção de recuperação de senha (CPF,CNPJ), no qual o usuário deverá informar o e-mail no qual chegará uma nova senha provisória|Alta|RF03,RF04|
+|RF08|Em todo os módulos leverá ter a funcionalidade de apoio a usuários com deficiências auditivas e visual|Alta|RF03,RF04,RF05,RF06,RF07|
 
-**RF01** - O sistema permitirá a criação de 3 perfis: Mestre (RH), Intermediario (Supervisor) e Usuário comum (Colaborador).
-**RF02** - O perfil mestre (RH) permitirá adicionar/alterar/excluir/pesquisa cadastrais sob os demais perfis (Intermediario e Usuário comum).
-**RF03** - Cadastramento da empresa:
+
 
 Descrição: Realização de primeiro cadastro da empresa
 Prioridade: Alta
@@ -51,14 +57,4 @@ Prioridade: Alta
 - Campo: nº - Tipo: TEXTO - Caracteres: 255
 
 
-# Requisitos não-funional #
-
-**RNF01** - Rodar em plataforma Web.
-**RNF02** - Uso de HTTPS.
-
-# Regra de negocio #
-
-**RN01** - Validar CPF.
-**RN02** - Validar CEP.
-**RN03** - Validar campos obrigatórios: Nome, Endereço, E-mail...
-
+# Requisitos não-funional 
