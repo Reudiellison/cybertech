@@ -24,7 +24,7 @@ Desenvolver um software para o gerenciamento do RH (Recursos Humanos) para facil
 
 Tomando por base o contexto do sistema, foram identificados os seguintes requisitos de usuário:
 
-###4.1 Requisito Funcional
+### 4.1 Requisito Funcional
 
 |Identificação|Descrição|Prioridade|Depende de|
 |:--------------:|:----------:|:------------:|:-------------:|
@@ -51,7 +51,7 @@ Tomando por base o contexto do sistema, foram identificados os seguintes requisi
 |RF21|O módulo contestação irá conter as seguintes opções para registro de abertura de reclamação: Salarial/Férias, Vale-Alimentação e Vale-Transporte|Alta|---|
 |RF22|O módulo contestação irá conter uma ferramenta de pesquisa, de acordo com os registros que foram abertos pelo colaborador, ou seja, o histórico|Alta|RF22|
 
-###4.2 Requisito de Negócio
+### 4.2 Requisito de Negócio
 
 |Identificação|Descrição|Prioridade|Depende de|Depende do RF|
 |:--------------:|:----------:|:------------:|:-------------:|:-------------:|
@@ -61,7 +61,7 @@ Tomando por base o contexto do sistema, foram identificados os seguintes requisi
 |RN04|Validar no máximo 3 tentativas de senha de login. Excedendo o limite de tentativas o usuário será notificado por e-mail, para se caso for ele, o mesmo procurar resetar a senha|Alta|---|
 |RN05|Validar localização|Alta|---|
 
-###4.3 Requisitos Não Funcionais
+### 4.3 Requisitos Não Funcionais
 
 |Identificação|Descrição|Categoria|Escopo|Prioridade|Depende de|
 |:--------------:|:----------:|:------------:|:-------------:|:-------------:|:------------:|
